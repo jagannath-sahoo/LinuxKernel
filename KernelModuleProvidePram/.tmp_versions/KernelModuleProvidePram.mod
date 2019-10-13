@@ -1,0 +1,3 @@
+/home/jagannath/Documents/LinuxKernelProg/KernelModuleProvidePram/KernelModuleProvidePram.ko
+/home/jagannath/Documents/LinuxKernelProg/KernelModuleProvidePram/KernelModuleProvidePram.o
+

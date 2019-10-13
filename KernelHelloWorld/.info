@@ -1,0 +1,17 @@
+TN:
+SF:/home/jagannath/Documents/LinuxKernelProg/KernelHelloWorld/KernelHelloWorld.c
+FN:12,hello_world_init
+FN:18,hello_world_exit
+FNDA:1,hello_world_init
+FNDA:1,hello_world_exit
+FNF:2
+FNH:2
+DA:12,1
+DA:14,1
+DA:15,1
+DA:18,1
+DA:20,1
+DA:21,1
+LF:6
+LH:6
+end_of_record
