@@ -22,6 +22,9 @@
 4. Copy the configure file to source directory
 ```
     sudo cp config-ubuntu-template /usr/src/linux-source-4.15.0/.config
+    or
+    /*Get the current boot configuration*/
+    cp -v /boot/config-$(uname -r) .config
     sudo make oldconfig
 ```
 5. Do the following after
