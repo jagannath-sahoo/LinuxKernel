@@ -23,6 +23,12 @@ NOTES FOR KERNEL BUILDING
     sudo cp config-ubuntu-template /usr/src/linux-source-4.15.0/.config
 //-Copy the file config file to kernel source directory
 sudo make oldconfig
+____________________________________________________________________________________
+if error comes like error code 127
+run=>
+sudo apt-get install libncurses-dev flex bison openssl libssl-dev dkms libelf-dev libudev-dev libpci-dev libiberty-dev autoconf
+____________________________________________________________________________________
+
 lscpu
 // get no. of cores
 //    if no. of cores is 4 
